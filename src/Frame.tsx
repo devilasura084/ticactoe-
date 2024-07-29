@@ -127,7 +127,7 @@ const Frame = () => {
     Size
     <div><input type="range" 
     min="3"
-    max="30"
+    max="7"
     onChange={handlesize}
     value={size}
     style={{width:"80%",marginLeft:"5%"}}
